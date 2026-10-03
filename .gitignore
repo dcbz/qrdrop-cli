@@ -1,0 +1,5 @@
+qrdrop-cli
+qrdrop-sender
+qrairdrop
+*.test
+.DS_Store
