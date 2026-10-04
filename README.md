@@ -4,6 +4,10 @@ Terminal QR file sender for QRDrop/QRA1.
 
 It displays a setup QR first, then cycles through data QR frames. The receiver can collect frames in any order, verify chunks, reconstruct the transfer payload, and decompress gzip transfers when applicable.
 
+## Screenshot
+
+![qrdrop-cli displaying a transfer QR code](qrdrop.png)
+
 ## Run
 
 ```bash
